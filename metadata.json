@@ -1,0 +1,6 @@
+{
+  "name": "StarNexus",
+  "description": "Explore the Universe, stars, planets, and constellations with our space-inspired AI companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
